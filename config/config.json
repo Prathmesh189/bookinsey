@@ -1,0 +1,33 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "lead_genenrator",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+   "timezone": "Asia/Calcutta"
+
+ 
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "lead_genenrator",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+   "timezone": "Asia/Calcutta"
+
+
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "lead_genenrator",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+   "timezone": "Asia/Calcutta"
+
+  
+  }
+}
+
