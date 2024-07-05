@@ -42,7 +42,9 @@ app.use(bodyParser.urlencoded({ limit: '100mb', extended: true }));
 
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
-
+app.get('/', (req, res) => {
+    res.send('Hello World');
+  });
 
 app.use('/categories', category);
 app.use('/lead', leads);
