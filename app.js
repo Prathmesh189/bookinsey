@@ -3,6 +3,7 @@ const bodyParser = require('body-parser');
 const path = require('path');
 const http = require('http');
 const socketIo = require('socket.io');
+const { get } = require('@vercel/edge-config');
 
 const socketLeadRouter = require('./routes/socketlead');
 const category = require('./routes/category_routes');
@@ -43,8 +44,21 @@ app.use(bodyParser.urlencoded({ limit: '100mb', extended: true }));
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 app.get('/', (req, res) => {
-    res.send('Hello World');
+    res.send('please insert db');
   });
+
+
+  app.get('/welcome', async (req, res) => {
+    try {
+        const greeting = await get('greeting');
+        res.json({ greeting });
+    } catch (error) {
+        res.status(500).json({ error: 'Failed to fetch greeting' });
+    }
+});
+
+
+
 
 app.use('/categories', category);
 app.use('/lead', leads);
