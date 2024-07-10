@@ -3,7 +3,7 @@
     "username": "root",
     "password": null,
     "database": "lead_genenrator",
-    "host": "127.0.0.1",
+    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
    "timezone": "Asia/Calcutta"
 
@@ -13,7 +13,7 @@
     "username": "root",
     "password": null,
     "database": "lead_genenrator",
-    "host": "127.0.0.1",
+    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
    "timezone": "Asia/Calcutta"
 
@@ -23,7 +23,7 @@
     "username": "root",
     "password": null,
     "database": "lead_genenrator",
-    "host": "127.0.0.1",
+    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
    "timezone": "Asia/Calcutta"
 
