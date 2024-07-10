@@ -48,15 +48,7 @@ app.get('/', (req, res) => {
   });
 
 
-  app.get('/welcome', async (req, res) => {
-    try {
-        const greeting = await get('greeting');
-        res.json({ greeting });
-    } catch (error) {
-        res.status(500).json({ error: 'Failed to fetch greeting' });
-    }
-});
-
+  
 
 
 
