@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "AvQyPttTJ7Y9Lih4wH2G",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
@@ -11,7 +11,7 @@
   },
   "test": {
     "username": "root",
-    "password": null,
+    "password": "AvQyPttTJ7Y9Lih4wH2G",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
@@ -21,7 +21,7 @@
   },
   "production": {
     "username": "root",
-    "password": null,
+    "password": "AvQyPttTJ7Y9Lih4wH2G",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
