@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "password": "AvQyPttTJ7Y9Lih4wH2G",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
@@ -10,7 +10,7 @@
  
   },
   "test": {
-    "username": "root",
+    "username": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "password": "AvQyPttTJ7Y9Lih4wH2G",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
@@ -20,7 +20,7 @@
 
   },
   "production": {
-    "username": "root",
+    "username": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "password": "AvQyPttTJ7Y9Lih4wH2G",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
