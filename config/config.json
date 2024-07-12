@@ -1,33 +1,22 @@
 {
   "development": {
     "username": "uj5ytcuxf39wfy2z",
-    "password": "AvQyPttTJ7Y9Lih4wH2G",
+    "password": "hcaoxV3tj0fz7kBmtWPJ",
     "database": "lead_genenrator",
-    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
-    "dialect": "mysql",
-   "timezone": "Asia/Calcutta"
-
- 
+    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com"
   },
   "test": {
     "username": "uj5ytcuxf39wfy2z",
-    "password": "AvQyPttTJ7Y9Lih4wH2G",
+    "password": "hcaoxV3tj0fz7kBmtWPJ",
     "database": "lead_genenrator",
-    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
-    "dialect": "mysql",
-   "timezone": "Asia/Calcutta"
-
-
+    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com"
   },
   "production": {
     "username": "uj5ytcuxf39wfy2z",
-    "password": "AvQyPttTJ7Y9Lih4wH2G",
+    "password": "hcaoxV3tj0fz7kBmtWPJ",
     "database": "lead_genenrator",
     "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
     "dialect": "mysql",
-   "timezone": "Asia/Calcutta"
-
-  
+    "timezone": "Asia/Calcutta"
   }
 }
-
