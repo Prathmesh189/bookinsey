@@ -1,21 +1,21 @@
 {
   "development": {
-    "username": "uj5ytcuxf39wfy2z",
-    "password": "hcaoxV3tj0fz7kBmtWPJ",
-    "database": "beszrh0i5qexrhf361ft",
-    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com"
+    "username": "if0_36892067",
+    "password": "kHGR1a2yoa",
+    "database": "if0_36892067_lead_app",
+    "host": "sql112.infinityfree.com"
   },
   "test": {
-    "username": "uj5ytcuxf39wfy2z",
-    "password": "hcaoxV3tj0fz7kBmtWPJ",
-    "database": "beszrh0i5qexrhf361ft",
-    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com"
+    "username": "if0_36892067",
+    "password": "kHGR1a2yoa",
+    "database": "if0_36892067_lead_app",
+    "host": "sql112.infinityfree.com"
   },
   "production": {
-    "username": "uj5ytcuxf39wfy2z",
-    "password": "hcaoxV3tj0fz7kBmtWPJ",
-    "database": "beszrh0i5qexrhf361ft",
-    "host": "beszrh0i5qexrhf361ft-mysql.services.clever-cloud.com",
+    "username": "if0_36892067",
+    "password": "kHGR1a2yoa",
+    "database": "if0_36892067_lead_app",
+    "host": "sql112.infinityfree.com",
     "dialect": "mysql",
     "timezone": "Asia/Calcutta"
   }
