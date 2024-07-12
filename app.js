@@ -44,7 +44,7 @@ app.use(bodyParser.urlencoded({ limit: '100mb', extended: true }));
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 app.get('/', (req, res) => {
-    res.send('please insert db');
+    res.send('please insert db your ');
   });
 
 
