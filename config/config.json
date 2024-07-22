@@ -1,22 +1,29 @@
 {
   "development": {
-    "username": "if0_36892067",
-    "password": "kHGR1a2yoa",
-    "database": "if0_36892067_lead_app",
-    "host": "sql112.infinityfree.com"
+    "username": "sql12721440",
+    "password": "TBzffpIyGG",
+    "database": "sql12721440",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port": 3306,
+    "timezone": "Asia/Calcutta"
   },
   "test": {
-    "username": "if0_36892067",
-    "password": "kHGR1a2yoa",
-    "database": "if0_36892067_lead_app",
-    "host": "sql112.infinityfree.com"
+    "username": "sql12721440",
+    "password": "TBzffpIyGG",
+    "database": "sql12721440",
+    "host": "sql12.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port": 3306,
+    "timezone": "Asia/Calcutta"
   },
   "production": {
-    "username": "if0_36892067",
-    "password": "kHGR1a2yoa",
-    "database": "if0_36892067_lead_app",
-    "host": "sql112.infinityfree.com",
+    "username": "sql12721440",
+    "password": "TBzffpIyGG",
+    "database": "sql12721440",
+    "host": "sql12.freemysqlhosting.net",
     "dialect": "mysql",
+    "port": 3306,
     "timezone": "Asia/Calcutta"
   }
 }

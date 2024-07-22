@@ -2,6 +2,13 @@ const db = require('../models');
 
 const path = require('path');
 
+
+
+
+
+
+
+
 const uploadImage = async (req, res) => {
   try {
     if (!req.file) {

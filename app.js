@@ -3,7 +3,6 @@ const bodyParser = require('body-parser');
 const path = require('path');
 const http = require('http');
 const socketIo = require('socket.io');
-const { get } = require('@vercel/edge-config');
 
 const socketLeadRouter = require('./routes/socketlead');
 const category = require('./routes/category_routes');

@@ -253,6 +253,7 @@ const updateVendorImagesInfo = async (req, res) => {
   }
 };
 
+
 const login = async (req, res) => {
   const { phone, password } = req.body;
 
@@ -266,7 +267,7 @@ const login = async (req, res) => {
       return res.status(401).json({ message: 'Incorrect password' });
     }
 
-    const accessToken = jwt.sign({ userId: user.id }, 'your-secret-key', { expiresIn: '360d' });
+    const accessToken = jwt.sign({ userId: user.id ,name:user.name }, 'your-secret-key', { expiresIn: '360d' });
 
     res.status(200).json({
       status: true,
